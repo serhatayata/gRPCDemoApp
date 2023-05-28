@@ -1,0 +1,2 @@
+obj\Debug\net7.0\Protos/Useroffer.cs \
+obj\Debug\net7.0\Protos/UserofferGrpc.cs: Protos/useroffer.proto
