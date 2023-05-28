@@ -747,11 +747,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Serhat\\Desktop\\MICROSERVICES\\gRPC\\GrpcService\\GrpcService\\GrpcService.csproj",
+      "projectUniqueName": "C:\\Users\\Serhat\\Desktop\\MICROSERVICES\\gRPC\\gRPCDemoApp\\GrpcService\\GrpcService\\GrpcService.csproj",
       "projectName": "GrpcService",
-      "projectPath": "C:\\Users\\Serhat\\Desktop\\MICROSERVICES\\gRPC\\GrpcService\\GrpcService\\GrpcService.csproj",
+      "projectPath": "C:\\Users\\Serhat\\Desktop\\MICROSERVICES\\gRPC\\gRPCDemoApp\\GrpcService\\GrpcService\\GrpcService.csproj",
       "packagesPath": "C:\\Users\\Serhat\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Serhat\\Desktop\\MICROSERVICES\\gRPC\\GrpcService\\GrpcService\\obj\\",
+      "outputPath": "C:\\Users\\Serhat\\Desktop\\MICROSERVICES\\gRPC\\gRPCDemoApp\\GrpcService\\GrpcService\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Serhat\\AppData\\Roaming\\NuGet\\NuGet.Config",
